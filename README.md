@@ -1,9 +1,7 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="link da sua faculdade">Senac-SP</a>.
+- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senac.br">Senac-SP</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA, SWIFTUI, HTML, CSS, JAVASCRIPT E MYSQL**.
 
 <h3>Minhas Skills</h3>
@@ -28,6 +26,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wllnao/)](https://www.linkedin.com/in/wllnao/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlln.almeida.oliveira@gmail.com)](mailto:wlln.almeida.oliveira@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/wlln148)
