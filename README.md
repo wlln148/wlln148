@@ -3,9 +3,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="link da sua faculdade">Senac-SP</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **JAVA, SWIFTUI, HTML, CSS, JAVASCRIPT E MYSQL**.
 
 <h3>Minhas Skills</h3>
 
