@@ -27,7 +27,7 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wllnao/)](https://www.linkedin.com/in/wllnao/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlln.almeida.oliveira@gmail.com)](mailto:wlln.almeida.oliveira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![GitHub](https://img.shields.io/github/followers/wlln148?label=follow&style=social)](https://github.com/wlln148)
 
 
