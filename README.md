@@ -31,4 +31,4 @@
 [![GitHub](https://img.shields.io/github/followers/wlln148?label=follow&style=social)](https://github.com/wlln148)
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=wlln148&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=wlln148&theme=dark&show_icons=true)]
