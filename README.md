@@ -1,6 +1,6 @@
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias e praticando os conhecimentos obtidos.
 - 🎓 Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senac.br">Senac-SP</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA, SWIFTUI, HTML, CSS, JAVASCRIPT E MYSQL**.
 
