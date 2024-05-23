@@ -2,7 +2,7 @@
 
 - Explorando novas tecnologias e praticando os conhecimentos obtidos.
 - Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senac.br">Senac-SP</a>.
-- Aprendendo mais sobre **JAVA, SWIFTUI, HTML, CSS, JAVASCRIPT E MYSQL**.
+- Aprendendo mais sobre **JAVA, HTML, CSS, JAVASCRIPT E MYSQL**.
 
 <h3>Tech Skills</h3>
 
