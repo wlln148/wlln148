@@ -1,8 +1,8 @@
 <h3>Sobre mim</h3>
 
 - Explorando novas tecnologias e praticando os conhecimentos obtidos.
-- Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senac.br">Senac-SP</a>.
-- Aprendendo mais sobre **JAVA, HTML, CSS, JAVASCRIPT E MYSQL**.
+- Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** no <a href="https://www.sp.senac.br">Senac-SP</a>.
+- Aperfeiçoando conhecimentos em IA e aplicabilidade da mesma em minha rotina e outras questões que auxiliariam o dia a dia.
 
 <h3>Tech Skills</h3>
 
